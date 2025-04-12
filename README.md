@@ -45,6 +45,9 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,nextjs,vercel" /><br>
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gowtham6477/gowtham6477/output/github-snake.svg" alt="Snake animation" />
+</p>
 
 <br/>
 <hr/>
