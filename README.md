@@ -5,6 +5,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer</h3> 
 <br/>
 <div align="center"> 
+  
   <a href="mailto:gowthamjayashankar6477@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
