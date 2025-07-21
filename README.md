@@ -13,7 +13,7 @@
   </a>
     <a href="https://gowtham6477.github.io/Personal_portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-     </a> 
+    </a> 
 </div>
 
  
